@@ -11,3 +11,5 @@ viral polymerase, 2) the combination of genes from different strains with variat
 cognate and 3) the processes of recombination of the genome (Sadiq et al., 2019; López & Arias,
 2020; Sun et al., 2021). This has been the basis for the generation of different genotypes.
 of each of the rotavirus segments circulating around the world.
+
+CXXB
