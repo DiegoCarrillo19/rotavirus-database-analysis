@@ -1,6 +1,7 @@
 # rotavirus-database-analysis
 
-Rotavirus is the main etiologic agent of acute diarrhea in children. It is estimated that at year the infection by these viruses causes around 128,500 deaths worldwide, being
+Rotavirus is the main etiologic agent of acute diarrhea in children. It is estimated that at
+year the infection by these viruses causes around 128,500 deaths worldwide, being
 developing countries are the most affected (Araki et al., 2018; Esparza et al., 2018;
 Papa et al., 2021; Troeger et al., 2018). Rotavirus has eleven RNA gene segments,
 which show great variability. This genetic variability is generated
