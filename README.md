@@ -4,7 +4,7 @@ Rotavirus is the main etiologic agent of acute diarrhea in children. It is estim
 
 References 
 
-  Araki, K., Hara, M., Tsugawa, T., Shimanoe, C., Nishida, Y., Matsuo, M., & Tanaka, K. (2018). Effectiveness of monovalent and pentavalent rotavirus vaccines in Japanese children. Vaccine, 36(34), 5187-5193. doi: 10.1016/j.vaccine.2018.07.007.
+    Araki, K., Hara, M., Tsugawa, T., Shimanoe, C., Nishida, Y., Matsuo, M., & Tanaka, K. (2018). Effectiveness of monovalent and pentavalent rotavirus vaccines in Japanese children. Vaccine, 36(34), 5187-5193. doi: 10.1016/j.vaccine.2018.07.007.
   
   Esparza-Aguilar, Marcelino, Bautista-Márquez, Aurora, González-Andrade, María del Carmen, & Richardson-López-Collada, Vesta Louise. (2009). Mortalidad por enfermedad diarreica en menores, antes y después de la introducción de la vacuna contra el rotavirus. Salud Pública de México, 51(4), 285-290.
   
